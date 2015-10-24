@@ -1,0 +1,18 @@
+{
+  "name": "file-uploader",
+  "version": "1.0.0",
+  "description": "File system and Multer, used to create a working file uploader.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maguire Krist",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "fs": "0.0.2",
+    "multer": "^1.1.0",
+    "path": "^0.12.7"
+  }
+}
